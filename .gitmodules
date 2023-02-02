@@ -1,0 +1,3 @@
+[submodule "3rd_pkg/ngspice"]
+	path = 3rd_pkg/ngspice
+	url = https://github.com/ngspice/ngspice.git
